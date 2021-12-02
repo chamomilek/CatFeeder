@@ -63,6 +63,16 @@ namespace CatFeederView.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap black_cat_1001568067390pw4ccjkjox {
+            get {
+                object obj = ResourceManager.GetObject("black-cat-1001568067390pw4ccjkjox", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap main_cat {
             get {
                 object obj = ResourceManager.GetObject("main-cat", resourceCulture);
