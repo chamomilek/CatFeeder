@@ -63,6 +63,16 @@ namespace CatFeederView.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap alcocat {
+            get {
+                object obj = ResourceManager.GetObject("alcocat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap black_cat_1001568067390pw4ccjkjox {
             get {
                 object obj = ResourceManager.GetObject("black-cat-1001568067390pw4ccjkjox", resourceCulture);
@@ -76,6 +86,16 @@ namespace CatFeederView.Properties {
         internal static System.Drawing.Bitmap main_cat {
             get {
                 object obj = ResourceManager.GetObject("main-cat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pivo1_cr_200x150_1 {
+            get {
+                object obj = ResourceManager.GetObject("pivo1-cr-200x150-1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
